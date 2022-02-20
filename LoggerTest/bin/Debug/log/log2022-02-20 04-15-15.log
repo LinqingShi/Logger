@@ -1,0 +1,3 @@
+2022/2/20 16:15:15 [(Info)] ->Created by MyLogTool > FileLogger > in line [37]Logger File is Created ...
+2022/2/20 16:15:15 [(Debug)] ->Program.cs > Logger > in line [26]This is a Debug logger
+2022/2/20 16:15:15 [(Error)] ->Program.cs > Logger > in line [27]This is a Error logger

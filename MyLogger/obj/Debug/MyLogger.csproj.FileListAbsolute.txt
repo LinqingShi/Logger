@@ -1,0 +1,10 @@
+E:\java\我的坚果云\C#\LoongLog-master\MyLogger\bin\Debug\MyLogger.dll
+E:\java\我的坚果云\C#\LoongLog-master\MyLogger\bin\Debug\MyLogger.pdb
+E:\java\我的坚果云\C#\LoongLog-master\MyLogger\obj\Debug\MyLogger.dll
+E:\java\我的坚果云\C#\LoongLog-master\MyLogger\obj\Debug\MyLogger.pdb
+E:\java\我的坚果云\C#\LoongLog-master\MyLogger\obj\Debug\MyLogger.csprojResolveAssemblyReference.cache
+E:\java\我的坚果云\C#\Logger\MyLogger\bin\Debug\MyLogger.dll
+E:\java\我的坚果云\C#\Logger\MyLogger\bin\Debug\MyLogger.pdb
+E:\java\我的坚果云\C#\Logger\MyLogger\obj\Debug\MyLogger.csprojResolveAssemblyReference.cache
+E:\java\我的坚果云\C#\Logger\MyLogger\obj\Debug\MyLogger.dll
+E:\java\我的坚果云\C#\Logger\MyLogger\obj\Debug\MyLogger.pdb

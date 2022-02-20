@@ -1,0 +1,5 @@
+2022/2/20 16:23:45 [(Info)] ->Created by MyLogTool > FileLogger > in line [37]Logger File is Created ...
+2022/2/20 16:23:45 [(Debug)] ->Program.cs > LoggerManagerTest > in line [144]this is a Debug.
+2022/2/20 16:23:45 [(Info)] ->Program.cs > LoggerManagerTest > in line [145]this is a Info.
+2022/2/20 16:23:45 [(Error)] ->Program.cs > LoggerManagerTest > in line [146]this is a Error.
+2022/2/20 16:23:45 [(Fatal)] ->Program.cs > LoggerManagerTest > in line [147]this is a Fatal.

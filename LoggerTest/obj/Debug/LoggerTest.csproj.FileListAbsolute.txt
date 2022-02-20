@@ -1,0 +1,8 @@
+E:\java\我的坚果云\C#\Logger\LoggerTest\bin\Debug\LoggerTest.exe.config
+E:\java\我的坚果云\C#\Logger\LoggerTest\bin\Debug\LoggerTest.exe
+E:\java\我的坚果云\C#\Logger\LoggerTest\bin\Debug\LoggerTest.pdb
+E:\java\我的坚果云\C#\Logger\LoggerTest\bin\Debug\MyLogger.dll
+E:\java\我的坚果云\C#\Logger\LoggerTest\bin\Debug\MyLogger.pdb
+E:\java\我的坚果云\C#\Logger\LoggerTest\obj\Debug\LoggerTest.csprojResolveAssemblyReference.cache
+E:\java\我的坚果云\C#\Logger\LoggerTest\obj\Debug\LoggerTest.exe
+E:\java\我的坚果云\C#\Logger\LoggerTest\obj\Debug\LoggerTest.pdb
